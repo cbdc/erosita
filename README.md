@@ -1,0 +1,2 @@
+# erosita
+eROSITA EDR
